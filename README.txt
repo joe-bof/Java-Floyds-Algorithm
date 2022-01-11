@@ -37,16 +37,7 @@ Example output:
 
 Files Included:
 
-   BofaniFloydApp.class
-   BofaniFloydApp.java
-   BofaniFloydApp.java~  
-   BofaniFloyd.class
-   BofaniFloyd.java
-   BofaniFloyd.java~  
-   BofaniFloydApp.class
-   BofaniFloydApp.java
-   BofaniFloydApp.java~  
-   BofaniData.class
-   BofaniData.java
-   BofaniData.java~
-   BofaniREADME.txt
+BofaniFloydApp.java --> application class.
+BofaniFloyd.java --> Floyd's algorithm.
+BofaniData.java --> contains graph data.
+README.txt --> README file with text description of the program.
